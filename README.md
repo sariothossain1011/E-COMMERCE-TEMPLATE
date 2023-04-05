@@ -1,4 +1,4 @@
-#     E-Commerce - Business Table
+#     E-COMMERCE - WEBSITE TEMPLATE DESIGN
 
 # Live Preview 1 :  https://e-commerce-website-liart-one.vercel.app/
 
