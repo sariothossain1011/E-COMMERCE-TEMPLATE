@@ -634,15 +634,7 @@ section{
     }
 
 };
-@media (max-width:500px){
 
-    .footer-btn{
-        /* display: inline-block; */
-        display: block;
-        width: 100%
-        
-    }
-};
 
 @media (max-width:450px){
 
